@@ -1,0 +1,7 @@
+langague: python
+
+install:
+- sudo apt-get install python2.7 
+
+script:
+- python teste_bubble.py
